@@ -6,13 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 3 |
+| 4 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (2)
+- [games](#games) (1)
+- [greedy](#greedy) (1)
 - [math](#math) (3)
 - [number theory](#number-theory) (3)
 
@@ -24,6 +26,18 @@
 |---|---------|------------|----------|
 | 1744E1 | [Divisible Numbers (easy version)](https://codeforces.com/contest/1744/problem/E1) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1744/E1%20-%20Divisible%20Numbers%20(easy%20version)/solution.cpp) |
 | 1744E2 | [Divisible Numbers (hard version)](https://codeforces.com/contest/1744/problem/E2) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1744/E2%20-%20Divisible%20Numbers%20(hard%20version)/solution.cpp) |
+
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 276B | [Little Girl and Game](https://codeforces.com/contest/276/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/276/B%20-%20Little%20Girl%20and%20Game/solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 276B | [Little Girl and Game](https://codeforces.com/contest/276/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/276/B%20-%20Little%20Girl%20and%20Game/solution.cpp) |
 
 ### math
 
