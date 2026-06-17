@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 11 |
+| 12 | 11 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [games](#games) (1)
 - [geometry](#geometry) (2)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (2)
+- [implementation](#implementation) (3)
 - [math](#math) (7)
 - [number theory](#number-theory) (4)
 - [sortings](#sortings) (2)
@@ -72,6 +72,7 @@
 |---|---------|------------|----------|
 | 27A | [Next Test](https://codeforces.com/contest/27/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/27/A%20-%20Next%20Test/solution.cpp) |
 | 808B | [Average Sleep Time](https://codeforces.com/contest/808/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/808/B%20-%20Average%20Sleep%20Time/solution.cpp) |
+| 1703E | [Mirror Grid](https://codeforces.com/contest/1703/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1703/E%20-%20Mirror%20Grid/solution.cpp) |
 
 ### math
 
