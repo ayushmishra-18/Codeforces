@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 9 | 10 |
+| 10 | 11 |
 
 ---
 
@@ -14,11 +14,12 @@
 
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (4)
+- [data structures](#data-structures) (1)
 - [games](#games) (1)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (1)
-- [math](#math) (5)
+- [implementation](#implementation) (2)
+- [math](#math) (6)
 - [number theory](#number-theory) (4)
 - [sortings](#sortings) (2)
 - [strings](#strings) (1)
@@ -39,6 +40,12 @@
 | 1324B | [Yet Another Palindrome Problem](https://codeforces.com/contest/1324/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1324/B%20-%20Yet%20Another%20Palindrome%20Problem/solution.cpp) |
 | 1744E1 | [Divisible Numbers (easy version)](https://codeforces.com/contest/1744/problem/E1) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1744/E1%20-%20Divisible%20Numbers%20(easy%20version)/solution.cpp) |
 | 1744E2 | [Divisible Numbers (hard version)](https://codeforces.com/contest/1744/problem/E2) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1744/E2%20-%20Divisible%20Numbers%20(hard%20version)/solution.cpp) |
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 808B | [Average Sleep Time](https://codeforces.com/contest/808/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/808/B%20-%20Average%20Sleep%20Time/solution.cpp) |
 
 ### games
 
@@ -63,12 +70,14 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 27A | [Next Test](https://codeforces.com/contest/27/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/27/A%20-%20Next%20Test/solution.cpp) |
+| 808B | [Average Sleep Time](https://codeforces.com/contest/808/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/808/B%20-%20Average%20Sleep%20Time/solution.cpp) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 224A | [Parallelepiped](https://codeforces.com/contest/224/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/224/A%20-%20Parallelepiped/solution.cpp) |
+| 808B | [Average Sleep Time](https://codeforces.com/contest/808/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/808/B%20-%20Average%20Sleep%20Time/solution.cpp) |
 | 1487B | [Cat Cycle](https://codeforces.com/contest/1487/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1487/B%20-%20Cat%20Cycle/solution.cpp) |
 | 1744E1 | [Divisible Numbers (easy version)](https://codeforces.com/contest/1744/problem/E1) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1744/E1%20-%20Divisible%20Numbers%20(easy%20version)/solution.cpp) |
 | 1744E2 | [Divisible Numbers (hard version)](https://codeforces.com/contest/1744/problem/E2) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1744/E2%20-%20Divisible%20Numbers%20(hard%20version)/solution.cpp) |
