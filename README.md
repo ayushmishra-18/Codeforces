@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 13 |
+| 19 | 13 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [binary search](#binary-search) (2)
 - [brute force](#brute-force) (6)
-- [constructive algorithms](#constructive-algorithms) (1)
+- [constructive algorithms](#constructive-algorithms) (2)
 - [data structures](#data-structures) (1)
 - [games](#games) (2)
 - [geometry](#geometry) (2)
@@ -22,7 +22,7 @@
 - [implementation](#implementation) (5)
 - [math](#math) (10)
 - [number theory](#number-theory) (5)
-- [sortings](#sortings) (3)
+- [sortings](#sortings) (4)
 - [strings](#strings) (1)
 - [two pointers](#two-pointers) (1)
 
@@ -51,6 +51,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 300A | [Array](https://codeforces.com/contest/300/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/300/A%20-%20Array/solution.cpp) |
+| 1339B | [Sorted Adjacent Differences](https://codeforces.com/contest/1339/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1339/B%20-%20Sorted%20Adjacent%20Differences/solution.cpp) |
 
 ### data structures
 
@@ -120,6 +121,7 @@
 |---|---------|------------|----------|
 | 27A | [Next Test](https://codeforces.com/contest/27/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/27/A%20-%20Next%20Test/solution.cpp) |
 | 1133C | [Balanced Team](https://codeforces.com/contest/1133/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1133/C%20-%20Balanced%20Team/solution.cpp) |
+| 1339B | [Sorted Adjacent Differences](https://codeforces.com/contest/1339/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1339/B%20-%20Sorted%20Adjacent%20Differences/solution.cpp) |
 | 1808B | [Playing in a Casino](https://codeforces.com/contest/1808/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1808/B%20-%20Playing%20in%20a%20Casino/solution.cpp) |
 
 ### strings
