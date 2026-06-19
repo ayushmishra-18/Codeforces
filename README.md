@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 12 | 7 |
+| 13 | 8 |
 
 ---
 
@@ -14,7 +14,8 @@
 
 - [*special](#special) (1)
 - [brute force](#brute-force) (4)
-- [greedy](#greedy) (3)
+- [dp](#dp) (1)
+- [greedy](#greedy) (4)
 - [implementation](#implementation) (8)
 - [math](#math) (2)
 - [sortings](#sortings) (1)
@@ -37,12 +38,19 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
 | 2237C | [Duck Surplus](https://codeforces.com/contest/2237/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2237/C%20-%20Duck%20Surplus/solution.cpp) |
 
 ### implementation
