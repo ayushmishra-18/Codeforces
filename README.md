@@ -6,140 +6,21 @@
 
 | Total Problems | Topics |
 |---|---|
-| 21 | 13 |
+| 1 | 1 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [binary search](#binary-search) (2)
-- [brute force](#brute-force) (6)
-- [constructive algorithms](#constructive-algorithms) (3)
-- [data structures](#data-structures) (1)
-- [games](#games) (2)
-- [geometry](#geometry) (2)
-- [greedy](#greedy) (3)
-- [implementation](#implementation) (5)
-- [math](#math) (11)
-- [number theory](#number-theory) (6)
-- [sortings](#sortings) (5)
-- [strings](#strings) (1)
-- [two pointers](#two-pointers) (1)
+- [greedy](#greedy) (1)
 
 ---
-
-### binary search
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 75C | [Modified GCD](https://codeforces.com/contest/75/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/75/C%20-%20Modified%20GCD/solution.cpp) |
-| 2014C | [Robin Hood in Town](https://codeforces.com/contest/2014/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2014/C%20-%20Robin%20Hood%20in%20Town/solution.cpp) |
-
-### brute force
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 224A | [Parallelepiped](https://codeforces.com/contest/224/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/224/A%20-%20Parallelepiped/solution.cpp) |
-| 300A | [Array](https://codeforces.com/contest/300/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/300/A%20-%20Array/solution.cpp) |
-| 1324B | [Yet Another Palindrome Problem](https://codeforces.com/contest/1324/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1324/B%20-%20Yet%20Another%20Palindrome%20Problem/solution.cpp) |
-| 1692F | [3SUM](https://codeforces.com/contest/1692/problem/F) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1692/F%20-%203SUM/solution.cpp) |
-| 1744E1 | [Divisible Numbers (easy version)](https://codeforces.com/contest/1744/problem/E1) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1744/E1%20-%20Divisible%20Numbers%20(easy%20version)/solution.cpp) |
-| 1744E2 | [Divisible Numbers (hard version)](https://codeforces.com/contest/1744/problem/E2) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1744/E2%20-%20Divisible%20Numbers%20(hard%20version)/solution.cpp) |
-
-### constructive algorithms
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 300A | [Array](https://codeforces.com/contest/300/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/300/A%20-%20Array/solution.cpp) |
-| 1339B | [Sorted Adjacent Differences](https://codeforces.com/contest/1339/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1339/B%20-%20Sorted%20Adjacent%20Differences/solution.cpp) |
-| 1401C | [Mere Array](https://codeforces.com/contest/1401/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1401/C%20-%20Mere%20Array/solution.cpp) |
-
-### data structures
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 808B | [Average Sleep Time](https://codeforces.com/contest/808/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/808/B%20-%20Average%20Sleep%20Time/solution.cpp) |
-
-### games
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 276B | [Little Girl and Game](https://codeforces.com/contest/276/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/276/B%20-%20Little%20Girl%20and%20Game/solution.cpp) |
-| 1370C | [Number Game](https://codeforces.com/contest/1370/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1370/C%20-%20Number%20Game/solution.cpp) |
-
-### geometry
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 224A | [Parallelepiped](https://codeforces.com/contest/224/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/224/A%20-%20Parallelepiped/solution.cpp) |
-| 507B | [Amr and Pins](https://codeforces.com/contest/507/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/507/B%20-%20Amr%20and%20Pins/solution.cpp) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 276B | [Little Girl and Game](https://codeforces.com/contest/276/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/276/B%20-%20Little%20Girl%20and%20Game/solution.cpp) |
-| 2014C | [Robin Hood in Town](https://codeforces.com/contest/2014/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2014/C%20-%20Robin%20Hood%20in%20Town/solution.cpp) |
 | 2237C | [Duck Surplus](https://codeforces.com/contest/2237/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2237/C%20-%20Duck%20Surplus/solution.cpp) |
-
-### implementation
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 27A | [Next Test](https://codeforces.com/contest/27/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/27/A%20-%20Next%20Test/solution.cpp) |
-| 300A | [Array](https://codeforces.com/contest/300/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/300/A%20-%20Array/solution.cpp) |
-| 478A | [Initial Bet](https://codeforces.com/contest/478/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/478/A%20-%20Initial%20Bet/solution.cpp) |
-| 808B | [Average Sleep Time](https://codeforces.com/contest/808/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/808/B%20-%20Average%20Sleep%20Time/solution.cpp) |
-| 1703E | [Mirror Grid](https://codeforces.com/contest/1703/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1703/E%20-%20Mirror%20Grid/solution.cpp) |
-
-### math
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 224A | [Parallelepiped](https://codeforces.com/contest/224/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/224/A%20-%20Parallelepiped/solution.cpp) |
-| 507B | [Amr and Pins](https://codeforces.com/contest/507/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/507/B%20-%20Amr%20and%20Pins/solution.cpp) |
-| 808B | [Average Sleep Time](https://codeforces.com/contest/808/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/808/B%20-%20Average%20Sleep%20Time/solution.cpp) |
-| 1370C | [Number Game](https://codeforces.com/contest/1370/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1370/C%20-%20Number%20Game/solution.cpp) |
-| 1401C | [Mere Array](https://codeforces.com/contest/1401/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1401/C%20-%20Mere%20Array/solution.cpp) |
-| 1487B | [Cat Cycle](https://codeforces.com/contest/1487/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1487/B%20-%20Cat%20Cycle/solution.cpp) |
-| 1692F | [3SUM](https://codeforces.com/contest/1692/problem/F) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1692/F%20-%203SUM/solution.cpp) |
-| 1744E1 | [Divisible Numbers (easy version)](https://codeforces.com/contest/1744/problem/E1) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1744/E1%20-%20Divisible%20Numbers%20(easy%20version)/solution.cpp) |
-| 1744E2 | [Divisible Numbers (hard version)](https://codeforces.com/contest/1744/problem/E2) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1744/E2%20-%20Divisible%20Numbers%20(hard%20version)/solution.cpp) |
-| 1808B | [Playing in a Casino](https://codeforces.com/contest/1808/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1808/B%20-%20Playing%20in%20a%20Casino/solution.cpp) |
-| 2014C | [Robin Hood in Town](https://codeforces.com/contest/2014/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2014/C%20-%20Robin%20Hood%20in%20Town/solution.cpp) |
-
-### number theory
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 75C | [Modified GCD](https://codeforces.com/contest/75/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/75/C%20-%20Modified%20GCD/solution.cpp) |
-| 1370C | [Number Game](https://codeforces.com/contest/1370/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1370/C%20-%20Number%20Game/solution.cpp) |
-| 1401C | [Mere Array](https://codeforces.com/contest/1401/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1401/C%20-%20Mere%20Array/solution.cpp) |
-| 1487B | [Cat Cycle](https://codeforces.com/contest/1487/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1487/B%20-%20Cat%20Cycle/solution.cpp) |
-| 1744E1 | [Divisible Numbers (easy version)](https://codeforces.com/contest/1744/problem/E1) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1744/E1%20-%20Divisible%20Numbers%20(easy%20version)/solution.cpp) |
-| 1744E2 | [Divisible Numbers (hard version)](https://codeforces.com/contest/1744/problem/E2) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1744/E2%20-%20Divisible%20Numbers%20(hard%20version)/solution.cpp) |
-
-### sortings
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 27A | [Next Test](https://codeforces.com/contest/27/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/27/A%20-%20Next%20Test/solution.cpp) |
-| 1133C | [Balanced Team](https://codeforces.com/contest/1133/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1133/C%20-%20Balanced%20Team/solution.cpp) |
-| 1339B | [Sorted Adjacent Differences](https://codeforces.com/contest/1339/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1339/B%20-%20Sorted%20Adjacent%20Differences/solution.cpp) |
-| 1401C | [Mere Array](https://codeforces.com/contest/1401/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1401/C%20-%20Mere%20Array/solution.cpp) |
-| 1808B | [Playing in a Casino](https://codeforces.com/contest/1808/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1808/B%20-%20Playing%20in%20a%20Casino/solution.cpp) |
-
-### strings
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 1324B | [Yet Another Palindrome Problem](https://codeforces.com/contest/1324/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1324/B%20-%20Yet%20Another%20Palindrome%20Problem/solution.cpp) |
-
-### two pointers
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 1133C | [Balanced Team](https://codeforces.com/contest/1133/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1133/C%20-%20Balanced%20Team/solution.cpp) |
 
 ---
 
