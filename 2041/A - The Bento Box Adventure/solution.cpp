@@ -1,1 +1,11 @@
-//A. The Bento Box Adventure #include<bits/stdc++.h>using namespace std;#define int long long intsigned main(){    int a,b,c,d;    cin>>a>>b>>c>>d;    int sum=a+b+c+d;    cout<<15-sum<<endl;}
+//A. The Bento Box Adventure
+ 
+#include<bits/stdc++.h>
+using namespace std;
+#define int long long int
+signed main(){
+    int a,b,c,d;
+    cin>>a>>b>>c>>d;
+    int sum=a+b+c+d;
+    cout<<15-sum<<endl;
+}
