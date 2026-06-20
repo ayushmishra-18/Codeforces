@@ -1,1 +1,43 @@
-//B. Collecting Game #include<bits/stdc++.h>using namespace std;#define int long long intsigned main(){    int t;    cin>>t;    while(t--){        int n;        cin>>n;        vector<pair<int,int>>arr(n);        int k=0;        for(int x=0;x<n;x++){            cin>>arr[x].first;            arr[x].second=x;            k+=arr[x].first;        }        vector<int> r(n);        sort(arr.begin(),arr.end());        int f=n-1;        int e=0;        for(int x=n-1;x>=0;x--){            if(x==n-1){                r[arr[x].second]=f;                k=k-arr[x].first;            }            else if(k>=arr[x+1].first){                r[arr[x].second]=f;                k=k-arr[x].first;            }            else{                f=x;                r[arr[x].second]=f;                k=k-arr[x].first;                }        }        for(int i=0;i<n;i++){            cout<<r[i]<<" ";        }        cout<<endl;    }}
+//B. Collecting Game
+ 
+#include<bits/stdc++.h>
+using namespace std;
+#define int long long int
+signed main(){
+    int t;
+    cin>>t;
+    while(t--){
+        int n;
+        cin>>n;
+        vector<pair<int,int>>arr(n);
+        int k=0;
+        for(int x=0;x<n;x++){
+            cin>>arr[x].first;
+            arr[x].second=x;
+            k+=arr[x].first;
+        }
+        vector<int> r(n);
+        sort(arr.begin(),arr.end());
+        int f=n-1;
+        int e=0;
+        for(int x=n-1;x>=0;x--){
+            if(x==n-1){
+                r[arr[x].second]=f;
+                k=k-arr[x].first;
+            }
+            else if(k>=arr[x+1].first){
+                r[arr[x].second]=f;
+                k=k-arr[x].first;
+            }
+            else{
+                f=x;
+                r[arr[x].second]=f;
+                k=k-arr[x].first;    
+            }
+        }
+        for(int i=0;i<n;i++){
+            cout<<r[i]<<" ";
+        }
+        cout<<endl;
+    }
+}
