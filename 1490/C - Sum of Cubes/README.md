@@ -1,6 +1,20 @@
-<h3><a href="https://codeforces.com/contest/1490/problem/C" target="_blank" rel="noopener noreferrer">Sum of Cubes</a></h3>
+<h2><a href="https://codeforces.com/contest/1490/problem/C" target="_blank" rel="noopener noreferrer">1490C — Sum of Cubes</a></h2>
 
-<div class="header"><div class="title">C. Sum of Cubes</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>You are given a positive integer $$$x$$$. Check whether the number $$$x$$$ is representable as the sum of the cubes of two positive integers.</p><p>Formally, you need to check if there are two integers $$$a$$$ and $$$b$$$ ($$$1 \le a, b$$$) such that $$$a^3+b^3=x$$$.</p><p>For example, if $$$x = 35$$$, then the numbers $$$a=2$$$ and $$$b=3$$$ are suitable ($$$2^3+3^3=8+27=35$$$). If $$$x=4$$$, then no pair of numbers $$$a$$$ and $$$b$$$ is suitable.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains one integer $$$t$$$ ($$$1 \le t \le 100$$$) — the number of test cases. Then $$$t$$$ test cases follow.</p><p>Each test case contains one integer $$$x$$$ ($$$1 \le x \le 10^{12}$$$).</p><p>Please note, that the input for some test cases won't fit into $$$32$$$-bit integer type, so you should use at least $$$64$$$-bit integer type in your programming language.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, output on a separate line: </p><ul> <li> "<span class="tex-font-style-tt">YES</span>" if $$$x$$$ is representable as the sum of the cubes of two positive integers. </li><li> "<span class="tex-font-style-tt">NO</span>" otherwise. </li></ul><p>You can output "<span class="tex-font-style-tt">YES</span>" and "<span class="tex-font-style-tt">NO</span>" in any case (for example, the strings <span class="tex-font-style-tt">yEs</span>, <span class="tex-font-style-tt">yes</span>, <span class="tex-font-style-tt">Yes</span> and <span class="tex-font-style-tt">YES</span> will be recognized as positive).</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0020706063946951148" id="id0019348391651338215" class="input-output-copier">Copy</div></div><pre id="id0020706063946951148">7
+| | |
+|---|---|
+| **Difficulty** | 1100 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1490C](https://codeforces.com/contest/1490/problem/C) |
+
+## Topics
+`binary search` `brute force` `math`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">C. Sum of Cubes</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>You are given a positive integer $$$x$$$. Check whether the number $$$x$$$ is representable as the sum of the cubes of two positive integers.</p><p>Formally, you need to check if there are two integers $$$a$$$ and $$$b$$$ ($$$1 \le a, b$$$) such that $$$a^3+b^3=x$$$.</p><p>For example, if $$$x = 35$$$, then the numbers $$$a=2$$$ and $$$b=3$$$ are suitable ($$$2^3+3^3=8+27=35$$$). If $$$x=4$$$, then no pair of numbers $$$a$$$ and $$$b$$$ is suitable.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains one integer $$$t$$$ ($$$1 \le t \le 100$$$) — the number of test cases. Then $$$t$$$ test cases follow.</p><p>Each test case contains one integer $$$x$$$ ($$$1 \le x \le 10^{12}$$$).</p><p>Please note, that the input for some test cases won't fit into $$$32$$$-bit integer type, so you should use at least $$$64$$$-bit integer type in your programming language.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, output on a separate line: </p><ul> <li> "<span class="tex-font-style-tt">YES</span>" if $$$x$$$ is representable as the sum of the cubes of two positive integers. </li><li> "<span class="tex-font-style-tt">NO</span>" otherwise. </li></ul><p>You can output "<span class="tex-font-style-tt">YES</span>" and "<span class="tex-font-style-tt">NO</span>" in any case (for example, the strings <span class="tex-font-style-tt">yEs</span>, <span class="tex-font-style-tt">yes</span>, <span class="tex-font-style-tt">Yes</span> and <span class="tex-font-style-tt">YES</span> will be recognized as positive).</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id004426930592128615" id="id007104624491552215" class="input-output-copier">Copy</div></div><pre id="id004426930592128615">7
 1
 2
 4
@@ -8,7 +22,7 @@
 35
 16
 703657519796
-</pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id009165401113643297" id="id008788397646907387" class="input-output-copier">Copy</div></div><pre id="id009165401113643297">NO
+</pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0046466455298378884" id="id0019616312187961482" class="input-output-copier">Copy</div></div><pre id="id0046466455298378884">NO
 YES
 NO
 NO
