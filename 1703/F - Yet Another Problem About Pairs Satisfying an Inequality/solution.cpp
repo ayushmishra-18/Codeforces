@@ -1,1 +1,39 @@
-//F. Yet Another Problem About Pairs Satisfying an Inequality #include <bits/stdc++.h>using namespace std;#define int long long int void fast_io() {    std::ios_base::sync_with_stdio(false);    std::cin.tie(NULL);    std::cout.tie(NULL);} signed main() {    fast_io();    int t;    cin>>t;    while(t--){        int n;        cin>>n;        vector<int>arr(n);        for(int i=0;i<n;i++){            cin>>arr[i];        }        vector<pair<int,int>>v;        for(int i=0;i<n;i++){            if(arr[i]<i+1){                v.push_back({i+1,arr[i]});            }        }        int a=0;        int m=v.size();        for(int i=0;i<m;i++){            pair<int,int>target={v[i].second,0};            a=a+lower_bound(v.begin(),v.end(),target)-v.begin();        }        cout<<a<<endl;    }    return 0;}
+//F. Yet Another Problem About Pairs Satisfying an Inequality
+ 
+#include <bits/stdc++.h>
+using namespace std;
+#define int long long int
+ 
+void fast_io() {
+    std::ios_base::sync_with_stdio(false);
+    std::cin.tie(NULL);
+    std::cout.tie(NULL);
+}
+ 
+signed main() {
+    fast_io();
+    int t;
+    cin>>t;
+    while(t--){
+        int n;
+        cin>>n;
+        vector<int>arr(n);
+        for(int i=0;i<n;i++){
+            cin>>arr[i];
+        }
+        vector<pair<int,int>>v;
+        for(int i=0;i<n;i++){
+            if(arr[i]<i+1){
+                v.push_back({i+1,arr[i]});
+            }
+        }
+        int a=0;
+        int m=v.size();
+        for(int i=0;i<m;i++){
+            pair<int,int>target={v[i].second,0};
+            a=a+lower_bound(v.begin(),v.end(),target)-v.begin();
+        }
+        cout<<a<<endl;
+    }
+    return 0;
+}
