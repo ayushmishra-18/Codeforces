@@ -1,12 +1,26 @@
-<h3><a href="https://codeforces.com/contest/1353/problem/A" target="_blank" rel="noopener noreferrer">Most Unstable Array</a></h3>
+<h2><a href="https://codeforces.com/contest/1353/problem/A" target="_blank" rel="noopener noreferrer">1353A — Most Unstable Array</a></h2>
 
-<div class="header"><div class="title">A. Most Unstable Array</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>You are given two integers $$$n$$$ and $$$m$$$. You have to construct the array $$$a$$$ of length $$$n$$$ consisting of <span class="tex-font-style-bf">non-negative integers</span> (i.e. integers greater than or equal to zero) such that the sum of elements of this array is <span class="tex-font-style-bf">exactly</span> $$$m$$$ and the value $$$\sum\limits_{i=1}^{n-1} |a_i - a_{i+1}|$$$ is the maximum possible. Recall that $$$|x|$$$ is the absolute value of $$$x$$$.</p><p>In other words, you have to maximize the sum of absolute differences between adjacent (consecutive) elements. For example, if the array $$$a=[1, 3, 2, 5, 5, 0]$$$ then the value above for this array is $$$|1-3| + |3-2| + |2-5| + |5-5| + |5-0| = 2 + 1 + 3 + 0 + 5 = 11$$$. Note that this example <span class="tex-font-style-bf">doesn't show the optimal answer</span> but it shows how the required value for some array is calculated.</p><p>You have to answer $$$t$$$ independent test cases.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line of the input contains one integer $$$t$$$ ($$$1 \le t \le 10^4$$$) — the number of test cases. Then $$$t$$$ test cases follow.</p><p>The only line of the test case contains two integers $$$n$$$ and $$$m$$$ ($$$1 \le n, m \le 10^9$$$) — the length of the array and its sum correspondingly.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, print the answer — the maximum possible value of $$$\sum\limits_{i=1}^{n-1} |a_i - a_{i+1}|$$$ for the array $$$a$$$ consisting of $$$n$$$ non-negative integers with the sum $$$m$$$.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id005825877682244481" id="id0014741755202863782" class="input-output-copier">Copy</div></div><pre id="id005825877682244481">5
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1353A](https://codeforces.com/contest/1353/problem/A) |
+
+## Topics
+`constructive algorithms` `greedy` `math`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Most Unstable Array</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>You are given two integers $$$n$$$ and $$$m$$$. You have to construct the array $$$a$$$ of length $$$n$$$ consisting of <span class="tex-font-style-bf">non-negative integers</span> (i.e. integers greater than or equal to zero) such that the sum of elements of this array is <span class="tex-font-style-bf">exactly</span> $$$m$$$ and the value $$$\sum\limits_{i=1}^{n-1} |a_i - a_{i+1}|$$$ is the maximum possible. Recall that $$$|x|$$$ is the absolute value of $$$x$$$.</p><p>In other words, you have to maximize the sum of absolute differences between adjacent (consecutive) elements. For example, if the array $$$a=[1, 3, 2, 5, 5, 0]$$$ then the value above for this array is $$$|1-3| + |3-2| + |2-5| + |5-5| + |5-0| = 2 + 1 + 3 + 0 + 5 = 11$$$. Note that this example <span class="tex-font-style-bf">doesn't show the optimal answer</span> but it shows how the required value for some array is calculated.</p><p>You have to answer $$$t$$$ independent test cases.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line of the input contains one integer $$$t$$$ ($$$1 \le t \le 10^4$$$) — the number of test cases. Then $$$t$$$ test cases follow.</p><p>The only line of the test case contains two integers $$$n$$$ and $$$m$$$ ($$$1 \le n, m \le 10^9$$$) — the length of the array and its sum correspondingly.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, print the answer — the maximum possible value of $$$\sum\limits_{i=1}^{n-1} |a_i - a_{i+1}|$$$ for the array $$$a$$$ consisting of $$$n$$$ non-negative integers with the sum $$$m$$$.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0043643120132543967" id="id0039277275763327135" class="input-output-copier">Copy</div></div><pre id="id0043643120132543967">5
 1 100
 2 2
 5 5
 2 1000000000
 1000000000 1000000000
-</pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id008527726287964595" id="id0010397092174817524" class="input-output-copier">Copy</div></div><pre id="id008527726287964595">0
+</pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id008989843063995204" id="id005175460599731614" class="input-output-copier">Copy</div></div><pre id="id008989843063995204">0
 2
 10
 1000000000
