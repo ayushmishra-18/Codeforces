@@ -1,11 +1,25 @@
-<h3><a href="https://codeforces.com/contest/1324/problem/D" target="_blank" rel="noopener noreferrer">Pair of Topics</a></h3>
+<h2><a href="https://codeforces.com/contest/1324/problem/D" target="_blank" rel="noopener noreferrer">1324D — Pair of Topics</a></h2>
 
-<div class="header"><div class="title">D. Pair of Topics</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>The next lecture in a high school requires two topics to be discussed. The $$$i$$$-th topic is interesting by $$$a_i$$$ units for the teacher and by $$$b_i$$$ units for the students.</p><p>The pair of topics $$$i$$$ and $$$j$$$ ($$$i  \lt  j$$$) is called <span class="tex-font-style-bf">good</span> if $$$a_i + a_j  \gt  b_i + b_j$$$ (i.e. it is more interesting for the teacher).</p><p>Your task is to find the number of <span class="tex-font-style-bf">good</span> pairs of topics.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line of the input contains one integer $$$n$$$ ($$$2 \le n \le 2 \cdot 10^5$$$) — the number of topics.</p><p>The second line of the input contains $$$n$$$ integers $$$a_1, a_2, \dots, a_n$$$ ($$$1 \le a_i \le 10^9$$$), where $$$a_i$$$ is the interestingness of the $$$i$$$-th topic for the teacher.</p><p>The third line of the input contains $$$n$$$ integers $$$b_1, b_2, \dots, b_n$$$ ($$$1 \le b_i \le 10^9$$$), where $$$b_i$$$ is the interestingness of the $$$i$$$-th topic for the students.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Print one integer — the number of <span class="tex-font-style-bf">good</span> pairs of topic.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id009012368493865885" id="id003973187022241823" class="input-output-copier">Copy</div></div><pre id="id009012368493865885">5
+| | |
+|---|---|
+| **Difficulty** | 1400 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1324D](https://codeforces.com/contest/1324/problem/D) |
+
+## Topics
+`binary search` `data structures` `sortings` `two pointers`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">D. Pair of Topics</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>The next lecture in a high school requires two topics to be discussed. The $$$i$$$-th topic is interesting by $$$a_i$$$ units for the teacher and by $$$b_i$$$ units for the students.</p><p>The pair of topics $$$i$$$ and $$$j$$$ ($$$i  \lt  j$$$) is called <span class="tex-font-style-bf">good</span> if $$$a_i + a_j  \gt  b_i + b_j$$$ (i.e. it is more interesting for the teacher).</p><p>Your task is to find the number of <span class="tex-font-style-bf">good</span> pairs of topics.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line of the input contains one integer $$$n$$$ ($$$2 \le n \le 2 \cdot 10^5$$$) — the number of topics.</p><p>The second line of the input contains $$$n$$$ integers $$$a_1, a_2, \dots, a_n$$$ ($$$1 \le a_i \le 10^9$$$), where $$$a_i$$$ is the interestingness of the $$$i$$$-th topic for the teacher.</p><p>The third line of the input contains $$$n$$$ integers $$$b_1, b_2, \dots, b_n$$$ ($$$1 \le b_i \le 10^9$$$), where $$$b_i$$$ is the interestingness of the $$$i$$$-th topic for the students.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Print one integer — the number of <span class="tex-font-style-bf">good</span> pairs of topic.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0018189049590698103" id="id003851053876112166" class="input-output-copier">Copy</div></div><pre id="id0018189049590698103">5
 4 8 2 6 2
 4 5 4 1 3
-</pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id005210891992153264" id="id009910009047039234" class="input-output-copier">Copy</div></div><pre id="id005210891992153264">7
-</pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id00856562329987058" id="id009970833238994029" class="input-output-copier">Copy</div></div><pre id="id00856562329987058">4
+</pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id004742465921691139" id="id001955205971691546" class="input-output-copier">Copy</div></div><pre id="id004742465921691139">7
+</pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id007376427631545407" id="id005858323522614948" class="input-output-copier">Copy</div></div><pre id="id007376427631545407">4
 1 3 2 4
 1 3 2 4
-</pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0006544996179450546" id="id009357359269563499" class="input-output-copier">Copy</div></div><pre id="id0006544996179450546">0
+</pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0016851172503371648" id="id0048654894848782126" class="input-output-copier">Copy</div></div><pre id="id0016851172503371648">0
 </pre></div></div></div>
