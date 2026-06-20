@@ -1,11 +1,25 @@
-<h3><a href="https://codeforces.com/contest/1395/problem/A" target="_blank" rel="noopener noreferrer">Boboniu Likes to Color Balls</a></h3>
+<h2><a href="https://codeforces.com/contest/1395/problem/A" target="_blank" rel="noopener noreferrer">1395A — Boboniu Likes to Color Balls</a></h2>
 
-<div class="header"><div class="title">A. Boboniu Likes to Color Balls</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Boboniu gives you</p><ul> <li> $$$r$$$ red balls, </li><li> $$$g$$$ green balls, </li><li> $$$b$$$ blue balls, </li><li> $$$w$$$ white balls. </li></ul><p>He allows you to do the following operation as many times as you want: </p><ul> <li> Pick a red ball, a green ball, and a blue ball and then change their color to white. </li></ul><p>You should answer if it's possible to arrange all the balls into a <span class="tex-font-style-it">palindrome</span> after several (possibly zero) number of described operations. </p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains one integer $$$T$$$ ($$$1\le T\le 100$$$) denoting the number of test cases.</p><p>For each of the next $$$T$$$ cases, the first line contains four integers $$$r$$$, $$$g$$$, $$$b$$$ and $$$w$$$ ($$$0\le r,g,b,w\le 10^9$$$).</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, print "Yes" if it's possible to arrange all the balls into a palindrome after doing several (possibly zero) number of described operations. Otherwise, print "No".</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0020411763498981061" id="id005012129196809019" class="input-output-copier">Copy</div></div><pre id="id0020411763498981061">4
+| | |
+|---|---|
+| **Difficulty** | 1000 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1395A](https://codeforces.com/contest/1395/problem/A) |
+
+## Topics
+`brute force` `math`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Boboniu Likes to Color Balls</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Boboniu gives you</p><ul> <li> $$$r$$$ red balls, </li><li> $$$g$$$ green balls, </li><li> $$$b$$$ blue balls, </li><li> $$$w$$$ white balls. </li></ul><p>He allows you to do the following operation as many times as you want: </p><ul> <li> Pick a red ball, a green ball, and a blue ball and then change their color to white. </li></ul><p>You should answer if it's possible to arrange all the balls into a <span class="tex-font-style-it">palindrome</span> after several (possibly zero) number of described operations. </p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains one integer $$$T$$$ ($$$1\le T\le 100$$$) denoting the number of test cases.</p><p>For each of the next $$$T$$$ cases, the first line contains four integers $$$r$$$, $$$g$$$, $$$b$$$ and $$$w$$$ ($$$0\le r,g,b,w\le 10^9$$$).</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, print "Yes" if it's possible to arrange all the balls into a palindrome after doing several (possibly zero) number of described operations. Otherwise, print "No".</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id009658415969523333" id="id00044691910246925204" class="input-output-copier">Copy</div></div><pre id="id009658415969523333">4
 0 1 1 1
 8 1 9 3
 0 0 0 0
 1000000000 1000000000 1000000000 1000000000
-</pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id00893566894662377" id="id0009237674730254353" class="input-output-copier">Copy</div></div><pre id="id00893566894662377">No
+</pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id009029348143218778" id="id006780731593804051" class="input-output-copier">Copy</div></div><pre id="id009029348143218778">No
 Yes
 Yes
 Yes
