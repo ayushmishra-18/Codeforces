@@ -6,31 +6,31 @@
 
 | Total Problems | Topics |
 |---|---|
-| 131 | 19 |
+| 146 | 19 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [binary search](#binary-search) (1)
+- [binary search](#binary-search) (3)
 - [bitmasks](#bitmasks) (2)
-- [brute force](#brute-force) (28)
+- [brute force](#brute-force) (29)
 - [combinatorics](#combinatorics) (4)
-- [constructive algorithms](#constructive-algorithms) (16)
+- [constructive algorithms](#constructive-algorithms) (21)
 - [data structures](#data-structures) (2)
 - [dp](#dp) (6)
-- [games](#games) (5)
-- [geometry](#geometry) (2)
+- [games](#games) (6)
+- [geometry](#geometry) (3)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (40)
-- [implementation](#implementation) (57)
-- [math](#math) (57)
-- [number theory](#number-theory) (13)
+- [greedy](#greedy) (48)
+- [implementation](#implementation) (64)
+- [math](#math) (61)
+- [number theory](#number-theory) (14)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (13)
-- [strings](#strings) (24)
-- [two pointers](#two-pointers) (2)
+- [sortings](#sortings) (16)
+- [strings](#strings) (26)
+- [two pointers](#two-pointers) (5)
 
 ---
 
@@ -45,6 +45,8 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
+| 1725B | [Basketball Together](https://codeforces.com/contest/1725/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1725/B%20-%20Basketball%20Together/solution.cpp) |
+| 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.cpp) |
 
 ### bitmasks
 
@@ -66,6 +68,7 @@
 | 1380A | [Three Indices](https://codeforces.com/contest/1380/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1380/A%20-%20Three%20Indices/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
+| 1704B | [Luke is a Foodie](https://codeforces.com/contest/1704/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1704/B%20-%20Luke%20is%20a%20Foodie/solution.cpp) |
 | 1761A | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1761/A%20-%20Two%20Permutations/solution.cpp) |
 | 1766A | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1766/A%20-%20Extremely%20Round/solution.cpp) |
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.cpp) |
@@ -100,6 +103,10 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
+| 1312B | [Bogosort](https://codeforces.com/contest/1312/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1312/B%20-%20Bogosort/solution.cpp) |
+| 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
+| 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.cpp) |
+| 1715B | [Beautiful Array](https://codeforces.com/contest/1715/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1715/B%20-%20Beautiful%20Array/solution.cpp) |
 | 1761A | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1761/A%20-%20Two%20Permutations/solution.cpp) |
 | 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.cpp) |
 | 1794B | [Not Dividing](https://codeforces.com/contest/1794/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1794/B%20-%20Not%20Dividing/solution.cpp) |
@@ -114,6 +121,7 @@
 | 2158A | [Suspension](https://codeforces.com/contest/2158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2158/A%20-%20Suspension/solution.cpp) |
 | 2179E | [Blackslex and Girls](https://codeforces.com/contest/2179/problem/E) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2179/E%20-%20Blackslex%20and%20Girls/solution.cpp) |
 | 2182A | [New Year String](https://codeforces.com/contest/2182/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2182/A%20-%20New%20Year%20String/solution.cpp) |
+| 2183B | [Yet Another MEX Problem](https://codeforces.com/contest/2183/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2183/B%20-%20Yet%20Another%20MEX%20Problem/solution.cpp) |
 | 2192B | [Flipping Binary String](https://codeforces.com/contest/2192/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2192/B%20-%20Flipping%20Binary%20String/solution.cpp) |
 
 ### data structures
@@ -143,11 +151,13 @@
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 2161A | [Round Trip](https://codeforces.com/contest/2161/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2161/A%20-%20Round%20Trip/solution.cpp) |
 | 2171C1 | [Renako Amaori and XOR Game (easy version)](https://codeforces.com/contest/2171/problem/C1) | 1100 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2171/C1%20-%20Renako%20Amaori%20and%20XOR%20Game%20(easy%20version)/solution.cpp) |
+| 2183A | [Binary Array Game](https://codeforces.com/contest/2183/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2183/A%20-%20Binary%20Array%20Game/solution.cpp) |
 
 ### geometry
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1620B | [Triangles on a Rectangle](https://codeforces.com/contest/1620/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1620/B%20-%20Triangles%20on%20a%20Rectangle/solution.cpp) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1806/A%20-%20Walking%20Master/solution.cpp) |
 | 2179E | [Blackslex and Girls](https://codeforces.com/contest/2179/problem/E) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2179/E%20-%20Blackslex%20and%20Girls/solution.cpp) |
 
@@ -163,11 +173,18 @@
 |---|---------|------------|----------|
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.cpp) |
 | 1440B | [Sum of Medians](https://codeforces.com/contest/1440/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1440/B%20-%20Sum%20of%20Medians/solution.cpp) |
 | 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.cpp) |
+| 1620B | [Triangles on a Rectangle](https://codeforces.com/contest/1620/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1620/B%20-%20Triangles%20on%20a%20Rectangle/solution.cpp) |
+| 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1675B | [Make It Increasing](https://codeforces.com/contest/1675/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1675/B%20-%20Make%20It%20Increasing/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
+| 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.cpp) |
 | 1696B | [NIT Destroys the Universe](https://codeforces.com/contest/1696/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1696/B%20-%20NIT%20Destroys%20the%20Universe/solution.cpp) |
+| 1704B | [Luke is a Foodie](https://codeforces.com/contest/1704/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1704/B%20-%20Luke%20is%20a%20Foodie/solution.cpp) |
+| 1715B | [Beautiful Array](https://codeforces.com/contest/1715/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1715/B%20-%20Beautiful%20Array/solution.cpp) |
+| 1725B | [Basketball Together](https://codeforces.com/contest/1725/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1725/B%20-%20Basketball%20Together/solution.cpp) |
 | 1726A | [Mainak and Array](https://codeforces.com/contest/1726/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1726/A%20-%20Mainak%20and%20Array/solution.cpp) |
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
 | 1794B | [Not Dividing](https://codeforces.com/contest/1794/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1794/B%20-%20Not%20Dividing/solution.cpp) |
@@ -201,6 +218,7 @@
 | 2179B | [Blackslex and Showering](https://codeforces.com/contest/2179/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2179/B%20-%20Blackslex%20and%20Showering/solution.cpp) |
 | 2180B | [Ashmal](https://codeforces.com/contest/2180/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2180/B%20-%20Ashmal/solution.cpp) |
 | 2182A | [New Year String](https://codeforces.com/contest/2182/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2182/A%20-%20New%20Year%20String/solution.cpp) |
+| 2183B | [Yet Another MEX Problem](https://codeforces.com/contest/2183/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2183/B%20-%20Yet%20Another%20MEX%20Problem/solution.cpp) |
 
 ### implementation
 
@@ -235,13 +253,20 @@
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.cpp) |
+| 1155A | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1155/A%20-%20Reverse%20a%20Substring/solution.cpp) |
+| 1362A | [Johnny and Ancient Computer](https://codeforces.com/contest/1362/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1362/A%20-%20Johnny%20and%20Ancient%20Computer/solution.cpp) |
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
+| 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1669/A%20-%20Division%3F/solution.cpp) |
 | 1675B | [Make It Increasing](https://codeforces.com/contest/1675/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1675/B%20-%20Make%20It%20Increasing/solution.cpp) |
 | 1676A | [Lucky?](https://codeforces.com/contest/1676/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1676/A%20-%20Lucky%3F/solution.cpp) |
+| 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.cpp) |
+| 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.cpp) |
 | 1692A | [Marathon](https://codeforces.com/contest/1692/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1692/A%20-%20Marathon/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
+| 1704B | [Luke is a Foodie](https://codeforces.com/contest/1704/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1704/B%20-%20Luke%20is%20a%20Foodie/solution.cpp) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
+| 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.cpp) |
 | 1766A | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1766/A%20-%20Extremely%20Round/solution.cpp) |
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.cpp) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.cpp) |
@@ -285,9 +310,13 @@
 | 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.cpp) |
 | 1582B | [Luntik and Subsequences](https://codeforces.com/contest/1582/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1582/B%20-%20Luntik%20and%20Subsequences/solution.cpp) |
 | 1607B | [Odd Grasshopper](https://codeforces.com/contest/1607/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1607/B%20-%20Odd%20Grasshopper/solution.cpp) |
+| 1620B | [Triangles on a Rectangle](https://codeforces.com/contest/1620/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1620/B%20-%20Triangles%20on%20a%20Rectangle/solution.cpp) |
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
+| 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
+| 1715B | [Beautiful Array](https://codeforces.com/contest/1715/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1715/B%20-%20Beautiful%20Array/solution.cpp) |
 | 1726A | [Mainak and Array](https://codeforces.com/contest/1726/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1726/A%20-%20Mainak%20and%20Array/solution.cpp) |
+| 1765M | [Minimum LCM](https://codeforces.com/contest/1765/problem/M) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1765/M%20-%20Minimum%20LCM/solution.cpp) |
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
 | 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.cpp) |
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.cpp) |
@@ -334,6 +363,7 @@
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
 | 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
+| 1765M | [Minimum LCM](https://codeforces.com/contest/1765/problem/M) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1765/M%20-%20Minimum%20LCM/solution.cpp) |
 | 1789A | [Serval and Mocha's Array](https://codeforces.com/contest/1789/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1789/A%20-%20Serval%20and%20Mocha's%20Array/solution.cpp) |
 | 1828B | [Permutation Swap](https://codeforces.com/contest/1828/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1828/B%20-%20Permutation%20Swap/solution.cpp) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
@@ -357,6 +387,9 @@
 | 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
+| 1155A | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1155/A%20-%20Reverse%20a%20Substring/solution.cpp) |
+| 1312B | [Bogosort](https://codeforces.com/contest/1312/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1312/B%20-%20Bogosort/solution.cpp) |
+| 1725B | [Basketball Together](https://codeforces.com/contest/1725/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1725/B%20-%20Basketball%20Together/solution.cpp) |
 | 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.cpp) |
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1849/B%20-%20Monsters/solution.cpp) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.cpp) |
@@ -381,6 +414,8 @@
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
+| 1155A | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1155/A%20-%20Reverse%20a%20Substring/solution.cpp) |
+| 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.cpp) |
 | 1606A | [AB Balance](https://codeforces.com/contest/1606/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1606/A%20-%20AB%20Balance/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
@@ -401,6 +436,9 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.cpp) |
+| 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.cpp) |
+| 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.cpp) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.cpp) |
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.cpp) |
 
