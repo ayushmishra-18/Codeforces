@@ -1,1 +1,38 @@
-//E. Building an Aquarium #include<bits/stdc++.h>using namespace std;#define int long long intsigned main(){    int t;    cin>>t;    while(t--){        int n,x;        cin>>n>>x;        int arr[n];        for(int i=0;i<n;i++){            cin>>arr[i];        }        sort(arr,arr+n);        int l=1;        int h=INT_MAX;        int height=1;        while(l<=h){            int mid=l+(h-l)/2;            int req=0;            for(int i=0;i<n;i++){                if(arr[i]<mid){                    req+=(mid-arr[i]);                }            }            if(req<=x){                height=mid;                l=mid+1;            }            else{                h=mid-1;            }        }        cout<<height<<endl;    }}
+//E. Building an Aquarium
+ 
+#include<bits/stdc++.h>
+using namespace std;
+#define int long long int
+signed main(){
+    int t;
+    cin>>t;
+    while(t--){
+        int n,x;
+        cin>>n>>x;
+        int arr[n];
+        for(int i=0;i<n;i++){
+            cin>>arr[i];
+        }
+        sort(arr,arr+n);
+        int l=1;
+        int h=INT_MAX;
+        int height=1;
+        while(l<=h){
+            int mid=l+(h-l)/2;
+            int req=0;
+            for(int i=0;i<n;i++){
+                if(arr[i]<mid){
+                    req+=(mid-arr[i]);
+                }
+            }
+            if(req<=x){
+                height=mid;
+                l=mid+1;
+            }
+            else{
+                h=mid-1;
+            }
+        }
+        cout<<height<<endl;
+    }
+}
