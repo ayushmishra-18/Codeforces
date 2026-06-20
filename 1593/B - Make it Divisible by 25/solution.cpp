@@ -1,1 +1,50 @@
-//B. Make it Divisible by 25 #include <bits/stdc++.h>using namespace std;#define int long long int void fast_io() {    std::ios_base::sync_with_stdio(false);    std::cin.tie(NULL);    std::cout.tie(NULL);} signed main() {    fast_io();    int t;    cin>>t;    while(t--){        string n;        cin>>n;        int khushi=INT_MAX;        int count=0;        for(int i=n.size()-1;i>0;i--){            if(n[i]=='0'){                count=n.size()-i-1;                int j=i-1;                while(j>=0 && n[j]!='0' && n[j]!='5'){                    count++;                    j--;                }                if(j>=0){                    khushi=min(khushi,count);                }            }            if(n[i]=='5'){                count=n.size()-i-1;                int j=i-1;                while(j>=0 && n[j]!='2' && n[j]!='7'){                    count++;                    j--;                }                if(j>=0){                    khushi=min(khushi,count);                }            }        }        cout<<khushi<<endl;            }    return 0;}
+//B. Make it Divisible by 25
+ 
+#include <bits/stdc++.h>
+using namespace std;
+#define int long long int
+ 
+void fast_io() {
+    std::ios_base::sync_with_stdio(false);
+    std::cin.tie(NULL);
+    std::cout.tie(NULL);
+}
+ 
+signed main() {
+    fast_io();
+    int t;
+    cin>>t;
+    while(t--){
+        string n;
+        cin>>n;
+        int khushi=INT_MAX;
+        int count=0;
+        for(int i=n.size()-1;i>0;i--){
+            if(n[i]=='0'){
+                count=n.size()-i-1;
+                int j=i-1;
+                while(j>=0 && n[j]!='0' && n[j]!='5'){
+                    count++;
+                    j--;
+                }
+                if(j>=0){
+                    khushi=min(khushi,count);
+                }
+            }
+            if(n[i]=='5'){
+                count=n.size()-i-1;
+                int j=i-1;
+                while(j>=0 && n[j]!='2' && n[j]!='7'){
+                    count++;
+                    j--;
+                }
+                if(j>=0){
+                    khushi=min(khushi,count);
+                }
+            }
+        }
+        cout<<khushi<<endl;
+        
+    }
+    return 0;
+}
