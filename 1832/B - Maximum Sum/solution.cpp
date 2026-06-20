@@ -1,1 +1,31 @@
-//B. Maximum Sum #include<bits/stdc++.h>using namespace std;#define int long long intsigned main(){    int t;    cin>>t;    while(t--){        int n,k;        cin>>n>>k;        vector<int>arr(n);        for(int i=0;i<n;i++){            cin>>arr[i];        }        vector<int>arr1(n+1,0);        sort(arr.begin(),arr.end());        for(int i=1;i<=n;i++){            arr1[i]=arr1[i-1]+arr[i-1];        }        int a=0;        for(int i=0;i<=k;i++){            int s=k-i;            int l=2*i;            int r=n-s;            int sum=arr1[r]-arr1[l];            a=max(a,sum);        }        cout<<a<<endl;    }}
+//B. Maximum Sum
+ 
+#include<bits/stdc++.h>
+using namespace std;
+#define int long long int
+signed main(){
+    int t;
+    cin>>t;
+    while(t--){
+        int n,k;
+        cin>>n>>k;
+        vector<int>arr(n);
+        for(int i=0;i<n;i++){
+            cin>>arr[i];
+        }
+        vector<int>arr1(n+1,0);
+        sort(arr.begin(),arr.end());
+        for(int i=1;i<=n;i++){
+            arr1[i]=arr1[i-1]+arr[i-1];
+        }
+        int a=0;
+        for(int i=0;i<=k;i++){
+            int s=k-i;
+            int l=2*i;
+            int r=n-s;
+            int sum=arr1[r]-arr1[l];
+            a=max(a,sum);
+        }
+        cout<<a<<endl;
+    }
+}
