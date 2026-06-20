@@ -1,1 +1,26 @@
-//B. Erase First or Second Letter #include<bits/stdc++.h>using namespace std;#define int long long intsigned main(){    int t;    cin>>t;    while(t--){        int n;        cin>>n;        string s;        cin>>s;        vector<int>arr(26,0);        int k=0,l=0;        for(int i=0;i<n;i++){            int c=s[i]-'a';            if(arr[c]==0){                k++;                arr[c]=1;            }            l=l+k;        }        cout<<l<<endl;    }}
+//B. Erase First or Second Letter
+ 
+#include<bits/stdc++.h>
+using namespace std;
+#define int long long int
+signed main(){
+    int t;
+    cin>>t;
+    while(t--){
+        int n;
+        cin>>n;
+        string s;
+        cin>>s;
+        vector<int>arr(26,0);
+        int k=0,l=0;
+        for(int i=0;i<n;i++){
+            int c=s[i]-'a';
+            if(arr[c]==0){
+                k++;
+                arr[c]=1;
+            }
+            l=l+k;
+        }
+        cout<<l<<endl;
+    }
+}
