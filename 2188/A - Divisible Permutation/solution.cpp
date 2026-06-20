@@ -1,1 +1,25 @@
-#include<bits/stdc++.h>using namespace std;#define int long long intsigned main(){    int t;    cin>>t;    while(t--){        int n;        cin>>n;        vector<int>v(n+1);        int l=1,r=n;        for(int i=n;i>0;i-=2){            v[i]=l;            l++;        }        for(int i=n-1;i>0;i-=2){            v[i]=r;            r--;        }        for(int i=1;i<=n;i++){            cout<<v[i]<<" ";        }        cout<<endl;    }}
+#include<bits/stdc++.h>
+using namespace std;
+#define int long long int
+signed main(){
+    int t;
+    cin>>t;
+    while(t--){
+        int n;
+        cin>>n;
+        vector<int>v(n+1);
+        int l=1,r=n;
+        for(int i=n;i>0;i-=2){
+            v[i]=l;
+            l++;
+        }
+        for(int i=n-1;i>0;i-=2){
+            v[i]=r;
+            r--;
+        }
+        for(int i=1;i<=n;i++){
+            cout<<v[i]<<" ";
+        }
+        cout<<endl;
+    }
+}
