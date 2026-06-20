@@ -1,1 +1,42 @@
-//E. Binary Deque #include<bits/stdc++.h>using namespace std;#define int long long intsigned main(){    int t;    cin>>t;    while(t--){        int n,s;        cin>>n>>s;        vector<int>arr(n);        int sum=0;        for(int i=0;i<n;i++){            cin>>arr[i];            sum=sum+arr[i];        }        if(sum<s){            cout<<-1<<endl;            continue;        }        if(sum==s){            cout<<0<<endl;            continue;        }        int l=0;        int current=0;        int len=-1;        for(int r=0;r<n;r++){            current=current+arr[r];            while(current>s){                current=current-arr[l];                l++;            }            if(current==s){                len=max(len,r-l+1);            }                    }        cout<<n-len<<endl;    }}
+//E. Binary Deque
+ 
+#include<bits/stdc++.h>
+using namespace std;
+#define int long long int
+signed main(){
+    int t;
+    cin>>t;
+    while(t--){
+        int n,s;
+        cin>>n>>s;
+        vector<int>arr(n);
+        int sum=0;
+        for(int i=0;i<n;i++){
+            cin>>arr[i];
+            sum=sum+arr[i];
+        }
+        if(sum<s){
+            cout<<-1<<endl;
+            continue;
+        }
+        if(sum==s){
+            cout<<0<<endl;
+            continue;
+        }
+        int l=0;
+        int current=0;
+        int len=-1;
+        for(int r=0;r<n;r++){
+            current=current+arr[r];
+            while(current>s){
+                current=current-arr[l];
+                l++;
+            }
+            if(current==s){
+                len=max(len,r-l+1);
+            }
+            
+        }
+        cout<<n-len<<endl;
+    }
+}
