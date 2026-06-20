@@ -1,1 +1,35 @@
-//C. Assembly via Minimums #include <bits/stdc++.h>using namespace std;#define int long long int void fast_io() {    std::ios_base::sync_with_stdio(false);    std::cin.tie(NULL);    std::cout.tie(NULL);} signed main() {    fast_io();    int t;    cin>>t;    while(t--){        int n;        cin>>n;        int m=(n*(n-1))/2;        vector<int>b(m);        for(int i=0;i<m;i++){            cin>>b[i];        }        sort(b.begin(),b.end());        int l=0,r=n-1;        while(r>0){            cout<<b[l]<<" ";            l=l+r;            r--;        }        cout<<1000000000<<endl;    }    return 0;}
+//C. Assembly via Minimums
+ 
+#include <bits/stdc++.h>
+using namespace std;
+#define int long long int
+ 
+void fast_io() {
+    std::ios_base::sync_with_stdio(false);
+    std::cin.tie(NULL);
+    std::cout.tie(NULL);
+}
+ 
+signed main() {
+    fast_io();
+    int t;
+    cin>>t;
+    while(t--){
+        int n;
+        cin>>n;
+        int m=(n*(n-1))/2;
+        vector<int>b(m);
+        for(int i=0;i<m;i++){
+            cin>>b[i];
+        }
+        sort(b.begin(),b.end());
+        int l=0,r=n-1;
+        while(r>0){
+            cout<<b[l]<<" ";
+            l=l+r;
+            r--;
+        }
+        cout<<1000000000<<endl;
+    }
+    return 0;
+}
