@@ -1,1 +1,16 @@
-//A. Buying Torches #include<bits/stdc++.h>using namespace std;#define int long long intsigned main(){    int t;    cin>>t;    while(t--){        int x,y,k;        cin>>x>>y>>k;        int a=k*y+k-1;        int b=((a+x-2)/(x-1))+k;        cout<<b<<endl;    }}
+//A. Buying Torches
+ 
+#include<bits/stdc++.h>
+using namespace std;
+#define int long long int
+signed main(){
+    int t;
+    cin>>t;
+    while(t--){
+        int x,y,k;
+        cin>>x>>y>>k;
+        int a=k*y+k-1;
+        int b=((a+x-2)/(x-1))+k;
+        cout<<b<<endl;
+    }
+}
