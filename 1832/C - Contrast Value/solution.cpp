@@ -1,1 +1,41 @@
-//C. Contrast Value #include <bits/stdc++.h>using namespace std;#define int long long int void fast_io() {    std::ios_base::sync_with_stdio(false);    std::cin.tie(NULL);    std::cout.tie(NULL);} signed main() {    fast_io();    int t;    cin>>t;    while(t--){        int n;        cin>>n;        vector<int>arr(n);        for(int i=0;i<n;i++){            cin>>arr[i];        }        arr.erase(unique(arr.begin(),arr.end()),arr.end());        int m=arr.size();        if(m==1){            cout<<1<<endl;            continue;        }        int count=2;        for(int i=1;i<m-1;i++){            int p=arr[i]-arr[i-1];            int q=arr[i+1]-arr[i];            if((p>0 && q<0) || (p<0 && q>0)){                count++;            }         }        cout<<count<<endl;    }    return 0;}
+//C. Contrast Value
+ 
+#include <bits/stdc++.h>
+using namespace std;
+#define int long long int
+ 
+void fast_io() {
+    std::ios_base::sync_with_stdio(false);
+    std::cin.tie(NULL);
+    std::cout.tie(NULL);
+}
+ 
+signed main() {
+    fast_io();
+    int t;
+    cin>>t;
+    while(t--){
+        int n;
+        cin>>n;
+        vector<int>arr(n);
+        for(int i=0;i<n;i++){
+            cin>>arr[i];
+        }
+        arr.erase(unique(arr.begin(),arr.end()),arr.end());
+        int m=arr.size();
+        if(m==1){
+            cout<<1<<endl;
+            continue;
+        }
+        int count=2;
+        for(int i=1;i<m-1;i++){
+            int p=arr[i]-arr[i-1];
+            int q=arr[i+1]-arr[i];
+            if((p>0 && q<0) || (p<0 && q>0)){
+                count++;
+            } 
+        }
+        cout<<count<<endl;
+    }
+    return 0;
+}
