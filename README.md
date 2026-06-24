@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 374 | 25 |
+| 375 | 25 |
 
 ---
 
@@ -28,11 +28,11 @@
 - [geometry](#geometry) (8)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (121)
+- [greedy](#greedy) (122)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (140)
-- [math](#math) (184)
-- [number theory](#number-theory) (44)
+- [math](#math) (185)
+- [number theory](#number-theory) (45)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (60)
 - [strings](#strings) (42)
@@ -391,6 +391,7 @@
 | 1195A | [Drinks Choosing](https://codeforces.com/contest/1195/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1195/A%20-%20Drinks%20Choosing/solution.cpp) |
 | 1201B | [Zero Array](https://codeforces.com/contest/1201/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1201/B%20-%20Zero%20Array/solution.cpp) |
 | 1201C | [Maximum Median](https://codeforces.com/contest/1201/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1201/C%20-%20Maximum%20Median/solution.cpp) |
+| 1294C | [Product of Three Numbers](https://codeforces.com/contest/1294/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1294/C%20-%20Product%20of%20Three%20Numbers/solution.cpp) |
 | 1300B | [Assigning to Classes](https://codeforces.com/contest/1300/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1300/B%20-%20Assigning%20to%20Classes/solution.cpp) |
 | 1342A | [Road To Zero](https://codeforces.com/contest/1342/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1342/A%20-%20Road%20To%20Zero/solution.cpp) |
 | 1353A | [Most Unstable Array](https://codeforces.com/contest/1353/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1353/A%20-%20Most%20Unstable%20Array/solution.cpp) |
@@ -706,6 +707,7 @@
 | 1266B | [Dice Tower](https://codeforces.com/contest/1266/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1266/B%20-%20Dice%20Tower/solution.cpp) |
 | 1285C | [Fadi and LCM](https://codeforces.com/contest/1285/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1285/C%20-%20Fadi%20and%20LCM/solution.cpp) |
 | 1294A | [Collecting Coins](https://codeforces.com/contest/1294/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1294/A%20-%20Collecting%20Coins/solution.cpp) |
+| 1294C | [Product of Three Numbers](https://codeforces.com/contest/1294/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1294/C%20-%20Product%20of%20Three%20Numbers/solution.cpp) |
 | 1296A | [Array with Odd Sum](https://codeforces.com/contest/1296/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1296/A%20-%20Array%20with%20Odd%20Sum/solution.cpp) |
 | 1327A | [Sum of Odd Integers](https://codeforces.com/contest/1327/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1327/A%20-%20Sum%20of%20Odd%20Integers/solution.cpp) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
@@ -848,6 +850,7 @@
 | 1107B | [Digital root](https://codeforces.com/contest/1107/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1107/B%20-%20Digital%20root/solution.cpp) |
 | 1165D | [Almost All Divisors](https://codeforces.com/contest/1165/problem/D) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1165/D%20-%20Almost%20All%20Divisors/solution.cpp) |
 | 1285C | [Fadi and LCM](https://codeforces.com/contest/1285/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1285/C%20-%20Fadi%20and%20LCM/solution.cpp) |
+| 1294C | [Product of Three Numbers](https://codeforces.com/contest/1294/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1294/C%20-%20Product%20of%20Three%20Numbers/solution.cpp) |
 | 1360D | [Buying Shovels](https://codeforces.com/contest/1360/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1360/D%20-%20Buying%20Shovels/solution.cpp) |
 | 1370C | [Number Game](https://codeforces.com/contest/1370/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1370/C%20-%20Number%20Game/solution.cpp) |
 | 1372B | [Omkar and Last Class of Math](https://codeforces.com/contest/1372/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1372/B%20-%20Omkar%20and%20Last%20Class%20of%20Math/solution.cpp) |
