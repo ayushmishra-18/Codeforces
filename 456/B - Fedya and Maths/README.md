@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/456/problem/B" target="_blank" rel="noopener noreferrer">456B — Fedya and Maths</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1200 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 456B](https://codeforces.com/contest/456/problem/B) |
+
+## Topics
+`math` `number theory`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">B. Fedya and Maths</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard" style="font-weight: bold"><div class="property-title">input</div>stdin</div><div class="output-file output-standard" style="font-weight: bold"><div class="property-title">output</div>stdout</div></div><div><p>Fedya studies in a gymnasium. Fedya's maths hometask is to calculate the following expression:</p><center class="tex-equation"><span class="tex-span">(1<sup class="upper-index"><i>n</i></sup> + 2<sup class="upper-index"><i>n</i></sup> + 3<sup class="upper-index"><i>n</i></sup> + 4<sup class="upper-index"><i>n</i></sup>) <i>mod</i> 5</span></center><p>for given value of <span class="tex-span"><i>n</i></span>. Fedya managed to complete the task. Can you? Note that given number <span class="tex-span"><i>n</i></span> can be extremely large (e.g. it can exceed any integer type of your programming language).</p></div><div class="input-specification"><div class="section-title">Input</div><p>The single line contains a single integer <span class="tex-span"><i>n</i></span> (<span class="tex-span">0 ≤ <i>n</i> ≤ 10<sup class="upper-index">10<sup class="upper-index">5</sup></sup></span>). The number doesn't contain any leading zeroes.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Print the value of the expression without leading zeros.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0016822249910742704" id="id0018505536566090752" class="input-output-copier">Copy</div></div><pre id="id0016822249910742704">4<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id009665356774925326" id="id007145591895061475" class="input-output-copier">Copy</div></div><pre id="id009665356774925326">4<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0035923420060159483" id="id003345561398094201" class="input-output-copier">Copy</div></div><pre id="id0035923420060159483">124356983594583453458888889<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id00009864291628667865" id="id004379452172511835" class="input-output-copier">Copy</div></div><pre id="id00009864291628667865">0<br></pre></div></div></div><div class="note"><div class="section-title">Note</div><p>Operation <span class="tex-span"><i>x</i> <i>mod</i> <i>y</i></span> means taking remainder after division <span class="tex-span"><i>x</i></span> by <span class="tex-span"><i>y</i></span>.</p><p>Note to the first sample:</p><p><img align="middle" class="tex-formula" src="https://espresso.codeforces.com/825f244180bb10323db01645118c3cfdb312fa89.png" style="max-width: 100.0%;max-height: 100.0%;"></p></div>
