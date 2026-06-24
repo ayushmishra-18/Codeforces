@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 379 | 25 |
+| 380 | 25 |
 
 ---
 
@@ -31,8 +31,8 @@
 - [greedy](#greedy) (123)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (140)
-- [math](#math) (189)
-- [number theory](#number-theory) (49)
+- [math](#math) (190)
+- [number theory](#number-theory) (50)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (60)
 - [strings](#strings) (42)
@@ -763,6 +763,7 @@
 | 1511B | [GCD Length](https://codeforces.com/contest/1511/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1511/B%20-%20GCD%20Length/solution.cpp) |
 | 1520D | [Same Differences](https://codeforces.com/contest/1520/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1520/D%20-%20Same%20Differences/solution.cpp) |
 | 1541B | [Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1541/B%20-%20Pleasant%20Pairs/solution.cpp) |
+| 1542C | [Strange Function](https://codeforces.com/contest/1542/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1542/C%20-%20Strange%20Function/solution.cpp) |
 | 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.cpp) |
 | 1582B | [Luntik and Subsequences](https://codeforces.com/contest/1582/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1582/B%20-%20Luntik%20and%20Subsequences/solution.cpp) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
@@ -874,6 +875,7 @@
 | 1487D | [Pythagorean Triples](https://codeforces.com/contest/1487/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1487/D%20-%20Pythagorean%20Triples/solution.cpp) |
 | 1511B | [GCD Length](https://codeforces.com/contest/1511/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1511/B%20-%20GCD%20Length/solution.cpp) |
 | 1541B | [Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1541/B%20-%20Pleasant%20Pairs/solution.cpp) |
+| 1542C | [Strange Function](https://codeforces.com/contest/1542/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1542/C%20-%20Strange%20Function/solution.cpp) |
 | 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
 | 1742D | [Coprime](https://codeforces.com/contest/1742/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1742/D%20-%20Coprime/solution.cpp) |
