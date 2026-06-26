@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 382 | 25 |
+| 383 | 25 |
 
 ---
 
@@ -24,7 +24,7 @@
 - [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (26)
 - [dsu](#dsu) (1)
-- [games](#games) (11)
+- [games](#games) (12)
 - [geometry](#geometry) (8)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (1)
@@ -338,6 +338,7 @@
 | 1370C | [Number Game](https://codeforces.com/contest/1370/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1370/C%20-%20Number%20Game/solution.cpp) |
 | 1373B | [01 Game](https://codeforces.com/contest/1373/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1373/B%20-%2001%20Game/solution.cpp) |
 | 1527B1 | [Palindrome Game (easy version)](https://codeforces.com/contest/1527/problem/B1) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1527/B1%20-%20Palindrome%20Game%20(easy%20version)/solution.cpp) |
+| 1747C | [Swap Game](https://codeforces.com/contest/1747/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1747/C%20-%20Swap%20Game/solution.cpp) |
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 2161A | [Round Trip](https://codeforces.com/contest/2161/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2161/A%20-%20Round%20Trip/solution.cpp) |
