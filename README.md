@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 381 | 25 |
+| 382 | 25 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [brute force](#brute-force) (78)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (11)
-- [constructive algorithms](#constructive-algorithms) (52)
+- [constructive algorithms](#constructive-algorithms) (53)
 - [data structures](#data-structures) (17)
 - [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (26)
@@ -32,7 +32,7 @@
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (141)
 - [math](#math) (191)
-- [number theory](#number-theory) (51)
+- [number theory](#number-theory) (52)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (60)
 - [strings](#strings) (42)
@@ -215,6 +215,7 @@
 | 478B | [Random Teams](https://codeforces.com/contest/478/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/478/B%20-%20Random%20Teams/solution.cpp) |
 | 688B | [Lovely Palindromes](https://codeforces.com/contest/688/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/688/B%20-%20Lovely%20Palindromes/solution.cpp) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
+| 776B | [Sherlock and his girlfriend](https://codeforces.com/contest/776/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/776/B%20-%20Sherlock%20and%20his%20girlfriend/solution.cpp) |
 | 1038B | [Non-Coprime Partition](https://codeforces.com/contest/1038/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1038/B%20-%20Non-Coprime%20Partition/solution.cpp) |
 | 1266B | [Dice Tower](https://codeforces.com/contest/1266/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1266/B%20-%20Dice%20Tower/solution.cpp) |
 | 1312B | [Bogosort](https://codeforces.com/contest/1312/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1312/B%20-%20Bogosort/solution.cpp) |
@@ -857,6 +858,7 @@
 | 456B | [Fedya and Maths](https://codeforces.com/contest/456/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/456/B%20-%20Fedya%20and%20Maths/solution.cpp) |
 | 630A | [Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/630/A%20-%20Again%20Twenty%20Five!/solution.cpp) |
 | 762A | [k-th divisor](https://codeforces.com/contest/762/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/762/A%20-%20k-th%20divisor/solution.cpp) |
+| 776B | [Sherlock and his girlfriend](https://codeforces.com/contest/776/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/776/B%20-%20Sherlock%20and%20his%20girlfriend/solution.cpp) |
 | 919B | [Perfect Number](https://codeforces.com/contest/919/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/919/B%20-%20Perfect%20Number/solution.cpp) |
 | 1068B | [LCM](https://codeforces.com/contest/1068/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1068/B%20-%20LCM/solution.cpp) |
 | 1076B | [Divisor Subtraction](https://codeforces.com/contest/1076/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1076/B%20-%20Divisor%20Subtraction/solution.cpp) |
