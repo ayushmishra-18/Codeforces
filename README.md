@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 388 | 25 |
+| 389 | 25 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (2)
-- [Uncategorized](#uncategorized) (2)
+- [Uncategorized](#uncategorized) (3)
 - [binary search](#binary-search) (34)
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (78)
@@ -53,6 +53,7 @@
 |---|---------|------------|----------|
 | 252C | [Points on Line](https://codeforces.com/contest/252/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/252/C%20-%20Points%20on%20Line/solution.cpp) |
 | 2188C | [Restricted Sorting](https://codeforces.com/contest/2188/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2188/C%20-%20Restricted%20Sorting/solution.cpp) |
+| 2238A | [Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2238/A%20-%20Another%20Puzzle%20from%20Papyrus/solution.cpp) |
 
 ### binary search
 
