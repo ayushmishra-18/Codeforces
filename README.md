@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 391 | 25 |
+| 392 | 25 |
 
 ---
 
@@ -24,13 +24,13 @@
 - [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (26)
 - [dsu](#dsu) (1)
-- [games](#games) (12)
+- [games](#games) (13)
 - [geometry](#geometry) (8)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (124)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (143)
+- [implementation](#implementation) (144)
 - [math](#math) (193)
 - [number theory](#number-theory) (53)
 - [shortest paths](#shortest-paths) (1)
@@ -350,6 +350,7 @@
 | 2171C1 | [Renako Amaori and XOR Game (easy version)](https://codeforces.com/contest/2171/problem/C1) | 1100 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2171/C1%20-%20Renako%20Amaori%20and%20XOR%20Game%20(easy%20version)/solution.cpp) |
 | 2183A | [Binary Array Game](https://codeforces.com/contest/2183/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2183/A%20-%20Binary%20Array%20Game/solution.cpp) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.cpp) |
+| 2228B | [Remilia Plays Soku](https://codeforces.com/contest/2228/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2228/B%20-%20Remilia%20Plays%20Soku/solution.cpp) |
 
 ### geometry
 
@@ -660,6 +661,7 @@
 | 2182A | [New Year String](https://codeforces.com/contest/2182/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2182/A%20-%20New%20Year%20String/solution.cpp) |
 | 2185C | [Shifted MEX](https://codeforces.com/contest/2185/problem/C) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2185/C%20-%20Shifted%20MEX/solution.cpp) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.cpp) |
+| 2228B | [Remilia Plays Soku](https://codeforces.com/contest/2228/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2228/B%20-%20Remilia%20Plays%20Soku/solution.cpp) |
 
 ### math
 
