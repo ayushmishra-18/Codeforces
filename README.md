@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 392 | 25 |
+| 393 | 25 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [brute force](#brute-force) (79)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (11)
-- [constructive algorithms](#constructive-algorithms) (53)
+- [constructive algorithms](#constructive-algorithms) (54)
 - [data structures](#data-structures) (18)
 - [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (26)
@@ -31,7 +31,7 @@
 - [greedy](#greedy) (124)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (144)
-- [math](#math) (193)
+- [math](#math) (194)
 - [number theory](#number-theory) (53)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (60)
@@ -233,6 +233,7 @@
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.cpp) |
 | 1438B | [Valerii Against Everyone](https://codeforces.com/contest/1438/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1438/B%20-%20Valerii%20Against%20Everyone/solution.cpp) |
 | 1454D | [Number into Sequence](https://codeforces.com/contest/1454/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1454/D%20-%20Number%20into%20Sequence/solution.cpp) |
+| 1455B | [Jumps](https://codeforces.com/contest/1455/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1455/B%20-%20Jumps/solution.cpp) |
 | 1476A | [K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1476/A%20-%20K-divisible%20Sum/solution.cpp) |
 | 1497B | [M-arrays](https://codeforces.com/contest/1497/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1497/B%20-%20M-arrays/solution.cpp) |
 | 1511B | [GCD Length](https://codeforces.com/contest/1511/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1511/B%20-%20GCD%20Length/solution.cpp) |
@@ -767,6 +768,7 @@
 | 1440B | [Sum of Medians](https://codeforces.com/contest/1440/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1440/B%20-%20Sum%20of%20Medians/solution.cpp) |
 | 1447B | [Numbers Box](https://codeforces.com/contest/1447/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1447/B%20-%20Numbers%20Box/solution.cpp) |
 | 1454D | [Number into Sequence](https://codeforces.com/contest/1454/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1454/D%20-%20Number%20into%20Sequence/solution.cpp) |
+| 1455B | [Jumps](https://codeforces.com/contest/1455/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1455/B%20-%20Jumps/solution.cpp) |
 | 1463A | [Dungeon](https://codeforces.com/contest/1463/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1463/A%20-%20Dungeon/solution.cpp) |
 | 1473B | [String LCM](https://codeforces.com/contest/1473/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1473/B%20-%20String%20LCM/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
