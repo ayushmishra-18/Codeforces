@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 395 | 25 |
+| 396 | 25 |
 
 ---
 
@@ -31,7 +31,7 @@
 - [greedy](#greedy) (124)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (146)
-- [math](#math) (195)
+- [math](#math) (196)
 - [number theory](#number-theory) (53)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (60)
@@ -723,6 +723,7 @@
 | 1201C | [Maximum Median](https://codeforces.com/contest/1201/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1201/C%20-%20Maximum%20Median/solution.cpp) |
 | 1203C | [Common Divisors](https://codeforces.com/contest/1203/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1203/C%20-%20Common%20Divisors/solution.cpp) |
 | 1204A | [BowWow and the Timetable](https://codeforces.com/contest/1204/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1204/A%20-%20BowWow%20and%20the%20Timetable/solution.cpp) |
+| 1213C | [Book Reading](https://codeforces.com/contest/1213/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1213/C%20-%20Book%20Reading/solution.cpp) |
 | 1221C | [Perfect Team](https://codeforces.com/contest/1221/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1221/C%20-%20Perfect%20Team/solution.cpp) |
 | 1237A | [Balanced Rating Changes](https://codeforces.com/contest/1237/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1237/A%20-%20Balanced%20Rating%20Changes/solution.cpp) |
 | 1257B | [Magic Stick](https://codeforces.com/contest/1257/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1257/B%20-%20Magic%20Stick/solution.cpp) |
