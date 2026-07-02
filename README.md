@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 393 | 25 |
+| 394 | 25 |
 
 ---
 
@@ -30,7 +30,7 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (124)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (144)
+- [implementation](#implementation) (145)
 - [math](#math) (194)
 - [number theory](#number-theory) (53)
 - [shortest paths](#shortest-paths) (1)
@@ -618,6 +618,7 @@
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.cpp) |
 | 1433A | [Boring Apartments](https://codeforces.com/contest/1433/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1433/A%20-%20Boring%20Apartments/solution.cpp) |
 | 1541B | [Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1541/B%20-%20Pleasant%20Pairs/solution.cpp) |
+| 1619C | [Wrong Addition](https://codeforces.com/contest/1619/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1619/C%20-%20Wrong%20Addition/solution.cpp) |
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1669/A%20-%20Division%3F/solution.cpp) |
