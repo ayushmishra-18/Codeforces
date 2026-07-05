@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 399 | 25 |
+| 400 | 25 |
 
 ---
 
@@ -31,7 +31,7 @@
 - [greedy](#greedy) (124)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (147)
-- [math](#math) (198)
+- [math](#math) (199)
 - [number theory](#number-theory) (54)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (60)
@@ -700,6 +700,7 @@
 | 573A | [Bear and Poker](https://codeforces.com/contest/573/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/573/A%20-%20Bear%20and%20Poker/solution.cpp) |
 | 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.cpp) |
 | 584A | [Olesya and Rodion](https://codeforces.com/contest/584/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/584/A%20-%20Olesya%20and%20Rodion/solution.cpp) |
+| 588B | [Duff in Love](https://codeforces.com/contest/588/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/588/B%20-%20Duff%20in%20Love/solution.cpp) |
 | 610A | [Pasha and Stick](https://codeforces.com/contest/610/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/610/A%20-%20Pasha%20and%20Stick/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 630C | [Lucky Numbers](https://codeforces.com/contest/630/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/630/C%20-%20Lucky%20Numbers/solution.cpp) |
