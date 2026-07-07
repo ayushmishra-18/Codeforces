@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 402 | 25 |
+| 403 | 25 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [brute force](#brute-force) (80)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (11)
-- [constructive algorithms](#constructive-algorithms) (55)
+- [constructive algorithms](#constructive-algorithms) (56)
 - [data structures](#data-structures) (18)
 - [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (26)
@@ -267,6 +267,7 @@
 | 2188A | [Divisible Permutation](https://codeforces.com/contest/2188/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2188/A%20-%20Divisible%20Permutation/solution.cpp) |
 | 2192B | [Flipping Binary String](https://codeforces.com/contest/2192/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2192/B%20-%20Flipping%20Binary%20String/solution.cpp) |
 | 2231A | [Construct an Array](https://codeforces.com/contest/2231/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2231/A%20-%20Construct%20an%20Array/solution.cpp) |
+| 2231B | [Another Sorting Problem](https://codeforces.com/contest/2231/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2231/B%20-%20Another%20Sorting%20Problem/solution.cpp) |
 | 2233B | [Different Distances](https://codeforces.com/contest/2233/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2233/B%20-%20Different%20Distances/solution.cpp) |
 | 2234B | [Palindrome, Twelve and Two Terms](https://codeforces.com/contest/2234/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2234/B%20-%20Palindrome%2C%20Twelve%20and%20Two%20Terms/solution.cpp) |
 
