@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 407 | 25 |
+| 408 | 25 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [brute force](#brute-force) (81)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (11)
-- [constructive algorithms](#constructive-algorithms) (57)
+- [constructive algorithms](#constructive-algorithms) (58)
 - [data structures](#data-structures) (18)
 - [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (26)
@@ -28,11 +28,11 @@
 - [geometry](#geometry) (9)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (128)
+- [greedy](#greedy) (129)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (149)
-- [math](#math) (202)
-- [number theory](#number-theory) (56)
+- [math](#math) (203)
+- [number theory](#number-theory) (57)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (60)
 - [strings](#strings) (43)
@@ -267,6 +267,7 @@
 | 2183B | [Yet Another MEX Problem](https://codeforces.com/contest/2183/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2183/B%20-%20Yet%20Another%20MEX%20Problem/solution.cpp) |
 | 2188A | [Divisible Permutation](https://codeforces.com/contest/2188/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2188/A%20-%20Divisible%20Permutation/solution.cpp) |
 | 2192B | [Flipping Binary String](https://codeforces.com/contest/2192/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2192/B%20-%20Flipping%20Binary%20String/solution.cpp) |
+| 2218D | [The 67th OEIS Problem](https://codeforces.com/contest/2218/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2218/D%20-%20The%2067th%20OEIS%20Problem/solution.cpp) |
 | 2229C1 | [We Be Flipping (Easy Version)](https://codeforces.com/contest/2229/problem/C1) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2229/C1%20-%20We%20Be%20Flipping%20(Easy%20Version)/solution.cpp) |
 | 2231A | [Construct an Array](https://codeforces.com/contest/2231/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2231/A%20-%20Construct%20an%20Array/solution.cpp) |
 | 2231B | [Another Sorting Problem](https://codeforces.com/contest/2231/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2231/B%20-%20Another%20Sorting%20Problem/solution.cpp) |
@@ -504,6 +505,7 @@
 | 2183B | [Yet Another MEX Problem](https://codeforces.com/contest/2183/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2183/B%20-%20Yet%20Another%20MEX%20Problem/solution.cpp) |
 | 2188B | [Seats](https://codeforces.com/contest/2188/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2188/B%20-%20Seats/solution.cpp) |
 | 2218B | [The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2218/B%20-%20The%2067th%206-7%20Integer%20Problem/solution.cpp) |
+| 2218D | [The 67th OEIS Problem](https://codeforces.com/contest/2218/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2218/D%20-%20The%2067th%20OEIS%20Problem/solution.cpp) |
 | 2220A | [Blocked](https://codeforces.com/contest/2220/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2220/A%20-%20Blocked/solution.cpp) |
 | 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.cpp) |
 | 2229B | [Absolute Cinema](https://codeforces.com/contest/2229/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2229/B%20-%20Absolute%20Cinema/solution.cpp) |
@@ -876,6 +878,7 @@
 | 2179E | [Blackslex and Girls](https://codeforces.com/contest/2179/problem/E) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2179/E%20-%20Blackslex%20and%20Girls/solution.cpp) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.cpp) |
 | 2218B | [The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2218/B%20-%20The%2067th%206-7%20Integer%20Problem/solution.cpp) |
+| 2218D | [The 67th OEIS Problem](https://codeforces.com/contest/2218/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2218/D%20-%20The%2067th%20OEIS%20Problem/solution.cpp) |
 | 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.cpp) |
 | 2229B | [Absolute Cinema](https://codeforces.com/contest/2229/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2229/B%20-%20Absolute%20Cinema/solution.cpp) |
 | 2233A | [AI Project Development](https://codeforces.com/contest/2233/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2233/A%20-%20AI%20Project%20Development/solution.cpp) |
@@ -944,6 +947,7 @@
 | 2167D | [Yet Another Array Problem](https://codeforces.com/contest/2167/problem/D) | 1000 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2167/D%20-%20Yet%20Another%20Array%20Problem/solution.cpp) |
 | 2179C | [Blackslex and Number Theory](https://codeforces.com/contest/2179/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2179/C%20-%20Blackslex%20and%20Number%20Theory/solution.cpp) |
 | 2180A | [Carnival Wheel](https://codeforces.com/contest/2180/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2180/A%20-%20Carnival%20Wheel/solution.cpp) |
+| 2218D | [The 67th OEIS Problem](https://codeforces.com/contest/2218/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2218/D%20-%20The%2067th%20OEIS%20Problem/solution.cpp) |
 | 2234A | [Euclid, Sequence and Two Numbers](https://codeforces.com/contest/2234/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2234/A%20-%20Euclid%2C%20Sequence%20and%20Two%20Numbers/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 
