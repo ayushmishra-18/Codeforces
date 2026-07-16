@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 421 | 25 |
+| 422 | 25 |
 
 ---
 
@@ -31,8 +31,8 @@
 - [greedy](#greedy) (135)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (150)
-- [math](#math) (208)
-- [number theory](#number-theory) (61)
+- [math](#math) (209)
+- [number theory](#number-theory) (62)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (61)
 - [strings](#strings) (43)
@@ -835,6 +835,7 @@
 | 1708B | [Difference of GCDs](https://codeforces.com/contest/1708/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1708/B%20-%20Difference%20of%20GCDs/solution.cpp) |
 | 1715B | [Beautiful Array](https://codeforces.com/contest/1715/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1715/B%20-%20Beautiful%20Array/solution.cpp) |
 | 1726A | [Mainak and Array](https://codeforces.com/contest/1726/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1726/A%20-%20Mainak%20and%20Array/solution.cpp) |
+| 1736B | [Playing with GCD](https://codeforces.com/contest/1736/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1736/B%20-%20Playing%20with%20GCD/solution.cpp) |
 | 1742E | [Scuza](https://codeforces.com/contest/1742/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1742/E%20-%20Scuza/solution.cpp) |
 | 1744E1 | [Divisible Numbers (easy version)](https://codeforces.com/contest/1744/problem/E1) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1744/E1%20-%20Divisible%20Numbers%20(easy%20version)/solution.cpp) |
 | 1744E2 | [Divisible Numbers (hard version)](https://codeforces.com/contest/1744/problem/E2) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1744/E2%20-%20Divisible%20Numbers%20(hard%20version)/solution.cpp) |
@@ -950,6 +951,7 @@
 | 1542C | [Strange Function](https://codeforces.com/contest/1542/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1542/C%20-%20Strange%20Function/solution.cpp) |
 | 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
+| 1736B | [Playing with GCD](https://codeforces.com/contest/1736/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1736/B%20-%20Playing%20with%20GCD/solution.cpp) |
 | 1742D | [Coprime](https://codeforces.com/contest/1742/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1742/D%20-%20Coprime/solution.cpp) |
 | 1744E1 | [Divisible Numbers (easy version)](https://codeforces.com/contest/1744/problem/E1) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1744/E1%20-%20Divisible%20Numbers%20(easy%20version)/solution.cpp) |
 | 1744E2 | [Divisible Numbers (hard version)](https://codeforces.com/contest/1744/problem/E2) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1744/E2%20-%20Divisible%20Numbers%20(hard%20version)/solution.cpp) |
