@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 422 | 25 |
+| 423 | 25 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (5)
 - [binary search](#binary-search) (35)
 - [bitmasks](#bitmasks) (3)
-- [brute force](#brute-force) (82)
+- [brute force](#brute-force) (83)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (11)
 - [constructive algorithms](#constructive-algorithms) (65)
@@ -31,7 +31,7 @@
 - [greedy](#greedy) (135)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (150)
-- [math](#math) (209)
+- [math](#math) (210)
 - [number theory](#number-theory) (62)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (61)
@@ -119,6 +119,7 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/279/B%20-%20Books/solution.cpp) |
 | 300A | [Array](https://codeforces.com/contest/300/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/300/A%20-%20Array/solution.cpp) |
+| 304A | [Pythagorean Theorem II](https://codeforces.com/contest/304/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/304/A%20-%20Pythagorean%20Theorem%20II/solution.cpp) |
 | 327A | [Flipping Game](https://codeforces.com/contest/327/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/327/A%20-%20Flipping%20Game/solution.cpp) |
 | 363B | [Fence](https://codeforces.com/contest/363/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/363/B%20-%20Fence/solution.cpp) |
 | 371C | [Hamburgers](https://codeforces.com/contest/371/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/371/C%20-%20Hamburgers/solution.cpp) |
@@ -714,6 +715,7 @@
 | 224A | [Parallelepiped](https://codeforces.com/contest/224/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/224/A%20-%20Parallelepiped/solution.cpp) |
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/230/B%20-%20T-primes/solution.cpp) |
 | 270A | [Fancy Fence](https://codeforces.com/contest/270/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/270/A%20-%20Fancy%20Fence/solution.cpp) |
+| 304A | [Pythagorean Theorem II](https://codeforces.com/contest/304/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/304/A%20-%20Pythagorean%20Theorem%20II/solution.cpp) |
 | 327B | [Hungry Sequence](https://codeforces.com/contest/327/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/327/B%20-%20Hungry%20Sequence/solution.cpp) |
 | 353A | [Domino](https://codeforces.com/contest/353/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/353/A%20-%20Domino/solution.cpp) |
 | 456B | [Fedya and Maths](https://codeforces.com/contest/456/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/456/B%20-%20Fedya%20and%20Maths/solution.cpp) |
