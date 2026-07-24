@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 428 | 25 |
+| 429 | 25 |
 
 ---
 
@@ -34,7 +34,7 @@
 - [math](#math) (211)
 - [number theory](#number-theory) (63)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (61)
+- [sortings](#sortings) (62)
 - [strings](#strings) (44)
 - [two pointers](#two-pointers) (25)
 
@@ -1019,6 +1019,7 @@
 | 1117B | [Emotes](https://codeforces.com/contest/1117/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1117/B%20-%20Emotes/solution.cpp) |
 | 1133C | [Balanced Team](https://codeforces.com/contest/1133/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1133/C%20-%20Balanced%20Team/solution.cpp) |
 | 1155A | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1155/A%20-%20Reverse%20a%20Substring/solution.cpp) |
+| 1174B | [Ehab Is an Odd Person](https://codeforces.com/contest/1174/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1174/B%20-%20Ehab%20Is%20an%20Odd%20Person/solution.cpp) |
 | 1189B | [Number Circle](https://codeforces.com/contest/1189/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1189/B%20-%20Number%20Circle/solution.cpp) |
 | 1201C | [Maximum Median](https://codeforces.com/contest/1201/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1201/C%20-%20Maximum%20Median/solution.cpp) |
 | 1300B | [Assigning to Classes](https://codeforces.com/contest/1300/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1300/B%20-%20Assigning%20to%20Classes/solution.cpp) |
