@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 425 | 25 |
+| 426 | 25 |
 
 ---
 
@@ -30,12 +30,12 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (135)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (151)
+- [implementation](#implementation) (152)
 - [math](#math) (210)
 - [number theory](#number-theory) (62)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (61)
-- [strings](#strings) (43)
+- [strings](#strings) (44)
 - [two pointers](#two-pointers) (25)
 
 ---
@@ -636,6 +636,7 @@
 | 1139B | [Chocolates](https://codeforces.com/contest/1139/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1139/B%20-%20Chocolates/solution.cpp) |
 | 1141A | [Game 23](https://codeforces.com/contest/1141/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1141/A%20-%20Game%2023/solution.cpp) |
 | 1155A | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1155/A%20-%20Reverse%20a%20Substring/solution.cpp) |
+| 1185B | [Email from Polycarp](https://codeforces.com/contest/1185/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1185/B%20-%20Email%20from%20Polycarp/solution.cpp) |
 | 1191B | [Tokitsukaze and Mahjong](https://codeforces.com/contest/1191/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1191/B%20-%20Tokitsukaze%20and%20Mahjong/solution.cpp) |
 | 1199A | [City Day](https://codeforces.com/contest/1199/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1199/A%20-%20City%20Day/solution.cpp) |
 | 1203C | [Common Divisors](https://codeforces.com/contest/1203/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1203/C%20-%20Common%20Divisors/solution.cpp) |
@@ -1079,6 +1080,7 @@
 | 1027A | [Palindromic Twist](https://codeforces.com/contest/1027/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1027/A%20-%20Palindromic%20Twist/solution.cpp) |
 | 1073A | [Diverse Substring](https://codeforces.com/contest/1073/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1073/A%20-%20Diverse%20Substring/solution.cpp) |
 | 1155A | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1155/A%20-%20Reverse%20a%20Substring/solution.cpp) |
+| 1185B | [Email from Polycarp](https://codeforces.com/contest/1185/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1185/B%20-%20Email%20from%20Polycarp/solution.cpp) |
 | 1278A | [Shuffle Hashing](https://codeforces.com/contest/1278/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1278/A%20-%20Shuffle%20Hashing/solution.cpp) |
 | 1303A | [Erasing Zeroes](https://codeforces.com/contest/1303/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1303/A%20-%20Erasing%20Zeroes/solution.cpp) |
 | 1324B | [Yet Another Palindrome Problem](https://codeforces.com/contest/1324/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1324/B%20-%20Yet%20Another%20Palindrome%20Problem/solution.cpp) |
