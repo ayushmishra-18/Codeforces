@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 427 | 25 |
+| 428 | 25 |
 
 ---
 
@@ -30,7 +30,7 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (135)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (152)
+- [implementation](#implementation) (153)
 - [math](#math) (211)
 - [number theory](#number-theory) (63)
 - [shortest paths](#shortest-paths) (1)
@@ -637,6 +637,7 @@
 | 1139B | [Chocolates](https://codeforces.com/contest/1139/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1139/B%20-%20Chocolates/solution.cpp) |
 | 1141A | [Game 23](https://codeforces.com/contest/1141/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1141/A%20-%20Game%2023/solution.cpp) |
 | 1155A | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1155/A%20-%20Reverse%20a%20Substring/solution.cpp) |
+| 1184D1 | [Parallel Universes (Easy)](https://codeforces.com/contest/1184/problem/D1) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1184/D1%20-%20Parallel%20Universes%20(Easy)/solution.cpp) |
 | 1185B | [Email from Polycarp](https://codeforces.com/contest/1185/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1185/B%20-%20Email%20from%20Polycarp/solution.cpp) |
 | 1191B | [Tokitsukaze and Mahjong](https://codeforces.com/contest/1191/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1191/B%20-%20Tokitsukaze%20and%20Mahjong/solution.cpp) |
 | 1199A | [City Day](https://codeforces.com/contest/1199/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ayushmishra-18/Codeforces/blob/HEAD/1199/A%20-%20City%20Day/solution.cpp) |
